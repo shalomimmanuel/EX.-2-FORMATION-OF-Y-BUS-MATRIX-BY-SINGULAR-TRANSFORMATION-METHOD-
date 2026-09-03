@@ -62,4 +62,9 @@ a'
 a'*y*a
 ```
 # OUTPUT:
+<img width="1206" height="668" alt="image" src="https://github.com/user-attachments/assets/1bca43ec-2b5b-4744-9ba8-8c56185b8634" />
+<img width="1206" height="694" alt="image" src="https://github.com/user-attachments/assets/e7b49822-4769-4c76-b8b7-ae119e64d256" />
+
+
 # RESULT:
+Thus, To develop a program to obtain bus admittance matrix for the given power system network by singular transformation method is successfully done in matlab and the output is obtained.
